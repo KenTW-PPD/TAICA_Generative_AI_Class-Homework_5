@@ -42,9 +42,9 @@
 5. 人工驗證網頁功能
 ## 專案結構：
 ``` text
-Project/
-├── index.html
+TAICA_Generative_AI_Class-Homework_5/
+├── 可愛踩地雷.html
 └── README.md
 ```
 ## 使用方式：
-下載專案後雙擊 `index.html` 即可啟動。
+下載專案後雙擊 `可愛踩地雷.html` 即可啟動。
